@@ -26,5 +26,5 @@
 - [**GitHub Repo**](https://github.com/selfdriven-foundation/selfdriven-ventures)
 - [heyOcto.ai](https://heyocto.ai) - integrated GenAI.
 - [skillzeb.io](https://skillseb.io) - templates.
-- [selfdriven.foundation](https://selfdriven.foundation) - templates.
-- [selfdriven.finance](https://selfdriven.finance) - templates.
+- [selfdriven.foundation](https://selfdriven.foundation) - framework.
+- [selfdriven.finance](https://selfdriven.finance)
