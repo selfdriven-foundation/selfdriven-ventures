@@ -2,6 +2,8 @@
 
 ### Status
 - Research & Development
+- Building team
+- Building roadmap
 
 ### Scope
 - Research and application of the selfdrivenOS to help individuals and organisations create ventures.
