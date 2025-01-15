@@ -9,4 +9,4 @@
 
 **3. Octomics: Proof of Activity/Growth**
 - Cardano economics - [octomics.io](https://octomics.io)
-- [selfdriven.finance](https:/selfdriven.finance)
+- [selfdriven.finance](https://selfdriven.finance)
