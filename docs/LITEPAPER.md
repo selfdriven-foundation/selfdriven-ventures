@@ -1,4 +1,4 @@
-**Selfdriven Ventures Litepaper**
+# **Selfdriven Ventures Litepaper (v0.0.1)**
 
 **Introduction**
 
