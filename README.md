@@ -27,6 +27,7 @@
 
 ### Resources
 - [**GitHub Repo**](https://github.com/selfdriven-foundation/selfdriven-ventures)
+- [selfdrivenOS](https://selfdriven.tech) - Apps/APIS etc
 - [heyOcto.ai](https://heyocto.ai) - integrated GenAI.
 - [skillzeb.io](https://skillseb.io) - templates.
 - [selfdriven.foundation](https://selfdriven.foundation) - framework.
