@@ -10,7 +10,7 @@
 - Organic & non-organic resource enagement and management
 - Non-organic resources: tokenised assets, including intelligence 
 
-### Contact Us
+### Getting Involved / Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
