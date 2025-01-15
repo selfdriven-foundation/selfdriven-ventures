@@ -13,6 +13,9 @@
 
 > Non-organic resources: tokenised assets, including intelligence. 
 
+### Docs
+- [Litepaper](/docs/LITEPAPER.md)
+
 ### Getting Involved / Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
