@@ -6,9 +6,9 @@
 ### Scope
 - Research and application of the selfdrivenOS to help individuals and organisations create ventures.
 - Using GenAI (heyOcto).
-- Focus on organisation and accoutability
-- Organic & non-organic resource enagement and management
-- Non-organic resources: tokenised assets, including intelligence 
+- Focus on organisation and accountability.
+- Organic & non-organic resource enfagement and management.
+- Non-organic resources: tokenised assets, including intelligence. 
 
 ### Getting Involved / Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
