@@ -10,6 +10,8 @@
 - Using GenAI (heyOcto).
 - Focus on organisation and accountability.
 - Organic & non-organic resource engagement and management.
+- Resource efficiency to enable more ventures
+- Organic outcomes - i.e. individual growth / purpose / better state-of-mind
 
 > Non-organic resources: tokenised assets, including intelligence. 
 
