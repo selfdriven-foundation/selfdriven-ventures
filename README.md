@@ -8,7 +8,8 @@
 - Using GenAI (heyOcto).
 - Focus on organisation and accountability.
 - Organic & non-organic resource engagement and management.
-- Non-organic resources: tokenised assets, including intelligence. 
+
+> Non-organic resources: tokenised assets, including intelligence. 
 
 ### Getting Involved / Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
