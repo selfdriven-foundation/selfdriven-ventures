@@ -23,7 +23,7 @@
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
 
 ### Resources
-- [GitHub Repo](https://github.com/selfdriven-foundation/selfdriven-ventures)
+- [**GitHub Repo**](https://github.com/selfdriven-foundation/selfdriven-ventures)
 - [heyOcto.ai](https://heyocto.ai) - integrated GenAI.
 - [skillzeb.io](https://skillseb.io) - templates.
 - [selfdriven.foundation](https://selfdriven.foundation) - templates.
