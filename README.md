@@ -18,6 +18,9 @@
 ### Docs
 - [Litepaper](/docs/LITEPAPER.md)
 
+### Research
+- [Use-Cases](/research/use-cases/)
+
 ### Getting Involved / Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
 - [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
