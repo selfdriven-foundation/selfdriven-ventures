@@ -7,7 +7,7 @@
 - Research and application of the selfdrivenOS to help individuals and organisations create ventures.
 - Using GenAI (heyOcto).
 - Focus on organisation and accountability.
-- Organic & non-organic resource enfagement and management.
+- Organic & non-organic resource engagement and management.
 - Non-organic resources: tokenised assets, including intelligence. 
 
 ### Getting Involved / Contact Us
