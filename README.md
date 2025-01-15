@@ -1,4 +1,4 @@
-### Helping people create ventures (including adventures) with in their communities.
+## Helping people create ventures (including adventures) with in their communities.
 
 ### Status
 - Research & Development
