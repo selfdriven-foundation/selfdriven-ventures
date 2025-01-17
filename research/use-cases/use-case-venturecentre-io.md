@@ -30,9 +30,11 @@
 ----
 
 ### Resources
+- [selfdriven.foundation](https://selfdriven.foundation) - framework.
+- [skillzeb.io](https://skillseb.io) - templates.
+- [selfdriven.finance](https://selfdriven.finance)
+- [heyOcto.ai](https://heyocto.ai) - integrated GenAI.
+- [selfdriven.ai](https://selfdriven.ai) - integrated GenAI.
 - [selfdriven.tech](https://selfdriven.tech) - Apps/APIS etc
 - [selfdriven.social](https://selfdriven.social) - AT Protocol.
-- [heyOcto.ai](https://heyocto.ai) - integrated GenAI.
-- [skillzeb.io](https://skillseb.io) - templates.
-- [selfdriven.foundation](https://selfdriven.foundation) - framework.
-- [selfdriven.finance](https://selfdriven.finance)
+
