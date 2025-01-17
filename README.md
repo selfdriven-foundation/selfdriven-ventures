@@ -20,7 +20,7 @@
 - [Litepaper](/docs/LITEPAPER.md)
 
 ### Research
-- [Use-Cases](research/use-cases)
+- [Use-Cases](https://github.com/selfdriven-foundation/selfdriven-ventures/tree/main/research/use-cases)
 
 ### Getting Involved / Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
