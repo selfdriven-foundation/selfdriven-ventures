@@ -3,7 +3,7 @@
 > [venturecentre.io](https://venturecentre.io)
 
 **1. Why**
-Venture Centre is looking to activate it's considerable experience and resources into a self-driven GenAI assisted platform.
+- Venture Centre is looking to activate it's considerable experience and resources into a self-driven GenAI assisted platform.
 
 Enabling members of their associated communities to most-effectively create ventures (and adventures) based on their areas of interests.
 
