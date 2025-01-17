@@ -38,3 +38,7 @@
 - [selfdriven.tech](https://selfdriven.tech) - Apps/APIS etc
 - [selfdriven.social](https://selfdriven.social) - AT Protocol.
 
+----
+[selfdriven.ventures](https://selfdriven.ventures)
+
+
