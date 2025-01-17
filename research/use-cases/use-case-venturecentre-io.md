@@ -13,7 +13,7 @@
 ### **3. What**
 - Use the selfdrivenOS framework and resourses to build an app that can assist with:
     - Project Plan & Manage
-    - Connect to People
+    - Connect to People - "Do you want to work with me?"
     - Connect to Capital (DeFi & TradFi)
 - Allow members to build and share their "organic identity" - their personalities.
 - Help members to connect and socialise via chat - [selfdriven.social](https://selfdriven.social)
