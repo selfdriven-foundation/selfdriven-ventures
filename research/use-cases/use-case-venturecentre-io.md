@@ -16,6 +16,7 @@
     - Connect to People
     - Connect to Capital (DeFi & TradFi)
 - Allow members to build and share their "organic identity" - their personalities.
+- Help members to connect and socialise via chat - [selfdriven.social](https://selfdriven.social)
 
 ### **4. How**
 1. Create "Venture Centre" [skillzeb.io](https://skillzeb.io) templates based on existing resources.
