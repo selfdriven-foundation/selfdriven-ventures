@@ -1,6 +1,6 @@
-## Use-Case: Venture Centre (NZ)
+## Use-Case: Venture Centre
 
-- [venturecentre.io](https://venturecentre.io)
+> [venturecentre.io](https://venturecentre.io)
 
 **1. Why**
 Venture Centre is looking to activate it's considerable experience and resources into a self-driven GenAI assisted platform.
