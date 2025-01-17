@@ -4,8 +4,7 @@
 
 **1. Why**
 - Venture Centre is looking to activate it's considerable experience and resources into a self-driven GenAI assisted platform.
-
-Enabling members of their associated communities to most-effectively create ventures (and adventures) based on their areas of interests.
+- Enabling members of their associated communities to most-effectively create ventures (and adventures) based on their areas of interests.
 
 **2. What**
 - Use the selfdrivenOS framework and resourses to build an app that.
