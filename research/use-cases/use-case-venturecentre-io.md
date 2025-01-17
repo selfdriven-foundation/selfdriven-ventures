@@ -25,7 +25,7 @@
 - Local Community (to start)
 
 ### **6. When**
-- Now
+- February 2025 +
 
 ----
 
