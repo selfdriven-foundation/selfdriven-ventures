@@ -11,7 +11,7 @@
 - Associated member communities
 
 ### **3. What**
-- Use the selfdrivenOS framework and resourses to build an app that.
+- Use the selfdrivenOS framework and resourses to build an app that can assist with:
     - Project Plan & Manage
     - Connect to People
     - Connect to Capital (DeFi & TradFi)
@@ -27,4 +27,12 @@
 ### **6. When**
 - Now
 
+----
 
+### Resources
+- [selfdriven.tech](https://selfdriven.tech) - Apps/APIS etc
+- [selfdriven.social](https://selfdriven.social) - AT Protocol.
+- [heyOcto.ai](https://heyocto.ai) - integrated GenAI.
+- [skillzeb.io](https://skillseb.io) - templates.
+- [selfdriven.foundation](https://selfdriven.foundation) - framework.
+- [selfdriven.finance](https://selfdriven.finance)
