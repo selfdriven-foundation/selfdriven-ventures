@@ -13,6 +13,7 @@
 - Resource efficiency to enable more ventures
 - Organic outcomes - i.e. individual growth / purpose / better state-of-mind
 - Connecting people for collaborative ventures
+- Bringing capital to communities by putting Cardano to work
 
 > Non-organic resources: tokenised assets, including intelligence. 
 
@@ -35,6 +36,5 @@
 - [selfdriven.foundation](https://selfdriven.foundation) - framework.
 - [selfdriven.finance](https://selfdriven.finance)
 
-  
 ----
 [selfdriven.ventures](https://selfdriven.ventures)
