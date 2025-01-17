@@ -15,6 +15,7 @@
     - Project Plan & Manage
     - Connect to People
     - Connect to Capital (DeFi & TradFi)
+- Allow members to build and share their "organic identity" - their personalities.
 
 ### **4. How**
 1. Create "Venture Centre" [skillzeb.io](https://skillzeb.io) templates based on existing resources.
@@ -37,6 +38,12 @@
 - [selfdriven.ai](https://selfdriven.ai) - integrated GenAI.
 - [selfdriven.tech](https://selfdriven.tech) - Apps/APIS etc
 - [selfdriven.social](https://selfdriven.social) - AT Protocol.
+
+----
+
+#### References (Not Directly Related)
+- [S.A.N (Sentient Advocate of Nature)](
+https://www.ted.com/talks/goodbye_monkey_s_a_n_sentient_advocate_of_nature?user_email_address=61abaddfa729e7e7f1b679dd90d3aa69&lctg=6574c25f1c1f29f12c0f4373)
 
 ----
 [selfdriven.ventures](https://selfdriven.ventures)
