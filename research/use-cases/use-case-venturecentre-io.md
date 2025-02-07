@@ -31,7 +31,7 @@
 
 ----
 
-### Resources
+### Links
 - [selfdriven.foundation](https://selfdriven.foundation) - framework.
 - [skillzeb.io](https://skillseb.io) - templates.
 - [selfdriven.finance](https://selfdriven.finance)
@@ -39,6 +39,19 @@
 - [selfdriven.ai](https://selfdriven.ai) - integrated GenAI.
 - [selfdriven.tech](https://selfdriven.tech) - Apps/APIS etc
 - [selfdriven.social](https://selfdriven.social) - AT Protocol.
+- [selfdriven.ai](https://selfdriven.ai) - GenAI.
+
+### Resources
+- [Venture Centre Shared Drive](https://drive.google.com/drive/folders/1sDZsTVinw1QDMX3o4MxrU6DQZ1B1xI9_)
+
+----
+
+### Next Steps
+
+- Venture Centre Links as Resource Template
+- Canvas as Project Templates
+    - Flourshing BM Canvas
+    - Platform Design Toolbox > Map out Communities > Id & Trust
 
 ----
 
