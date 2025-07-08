@@ -25,7 +25,7 @@
 
 ### Getting Involved / Contact Us
 - [Connect @ bsky.app](https://bsky.app/profile/markbyers.selfdriven.social)
-- [selfdriven.foundation/connect](https://selfdriven.foundation/connect)
+- [selfdriven.foundation/connect](https://selfdriven.fyi/connect)
 
 ### Resources
 - [**GitHub Repo**](https://github.com/selfdriven-foundation/selfdriven-ventures)
